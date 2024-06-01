@@ -2,7 +2,7 @@
 Stock Visualizer 2024
 
 
-Disclaimer- This is the very first prototype and the code is not very clean
+Disclaimer- This is a prototype and the code is not very clean
 Also there may be a couple of bugs
 
 '''
